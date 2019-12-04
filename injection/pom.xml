@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>br.com.zup</groupId>
+  <artifactId>dependency-injection-demo</artifactId>
+  <version>0</version>
+</project>
